@@ -4,10 +4,10 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
-    "dev": " nodemon app.js"
+    "dev": "nodemon app.js"
   },
   "engines": {
-   "node":"20.x"
+   "node": "20.x"
   },
   "keywords": [],
   "author": "miriam",
