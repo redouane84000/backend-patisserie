@@ -18,6 +18,7 @@ app.use((req,res,next)=>{
 
 
 app.use('/belage/devis', devisRoutes);
+app.use('/belage/test', devisRoutes);
 
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
